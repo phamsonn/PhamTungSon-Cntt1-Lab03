@@ -4,8 +4,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#FFFFFF">
-
-    <!-- Ô số 2 -->
     <TextView
         android:id="@+id/box2"
         android:layout_width="150dp"
@@ -18,8 +16,6 @@
         android:text="2"
         android:textColor="#FFFFFF"
         android:textSize="24sp" />
-
-    <!-- Ô số 4 -->
     <TextView
         android:id="@+id/box4"
         android:layout_width="150dp"
@@ -32,8 +28,6 @@
         android:text="4"
         android:textColor="#FFFFFF"
         android:textSize="24sp" />
-
-    <!-- Ô số 3 -->
     <TextView
         android:id="@+id/box3"
         android:layout_width="150dp"
@@ -46,8 +40,6 @@
         android:text="3"
         android:textColor="#000000"
         android:textSize="24sp" />
-
-    <!-- Ô số 1 -->
     <TextView
         android:id="@+id/box1"
         android:layout_width="150dp"

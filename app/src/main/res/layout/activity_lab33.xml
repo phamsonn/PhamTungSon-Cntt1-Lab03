@@ -21,8 +21,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintHorizontal_bias="0.5" />
-
-    <!-- Ô số 2 -->
     <TextView
         android:id="@+id/box2"
         android:layout_width="100dp"
@@ -37,8 +35,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintHorizontal_bias="0.5" />
-
-    <!-- Ô số 3 -->
     <TextView
         android:id="@+id/box3"
         android:layout_width="100dp"
@@ -53,8 +49,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.5" />
-
-    <!-- Ô số 4 -->
     <TextView
         android:id="@+id/box4"
         android:layout_width="100dp"
@@ -69,8 +63,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.5" />
-
-    <!-- Ô số 5 -->
     <TextView
         android:id="@+id/box5"
         android:layout_width="100dp"
@@ -86,5 +78,4 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintVertical_bias="0.5" />
-
   </androidx.constraintlayout.widget.ConstraintLayout>
